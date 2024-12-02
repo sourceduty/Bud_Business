@@ -26,6 +26,8 @@ For those interested in expanding cannabis operations internationally, Canada of
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Cannabis](https://github.com/sourceduty/Cannabis)
+<br>
+[Weed Strain](https://github.com/sourceduty/Weed_Strain)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
