@@ -11,6 +11,7 @@ In addition to regulatory guidance, Bud Business also offers advice on branding,
 ```
 Start a cannabis business.
 Print a cheat sheet for this custom GPT.
+Print an example weed business model.
 Search for local cannabis businesses.
 ```
 
