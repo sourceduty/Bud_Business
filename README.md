@@ -28,6 +28,8 @@ For those interested in expanding cannabis operations internationally, Canada of
 [Cannabis](https://github.com/sourceduty/Cannabis)
 <br>
 [Weed Strain](https://github.com/sourceduty/Weed_Strain)
+<br>
+[Botanical Diagnostics](https://github.com/sourceduty/Botanical_Diagnostics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
