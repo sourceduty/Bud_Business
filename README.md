@@ -1,4 +1,5 @@
 ![Weed](https://github.com/user-attachments/assets/b1b62761-316d-4a5c-bae7-ab46f3f87f06)
+![Weed Truck](https://github.com/user-attachments/assets/f5f5a35c-7180-456e-8deb-b4f6c4897ad8)
 
 > Plan and establish a weed-based business located in any country.
 
